@@ -1,5 +1,5 @@
 # Enterprise-Network-Project
-Enterprise Network Project using packet tracaer 
+Enterprise Network Project using packet tracaer  
 
 This project implements the following networking technologies and protocols:
 
