@@ -1,6 +1,8 @@
 # Enterprise-Network-Project
 Enterprise Network Project using packet tracaer  
+## Network Topology
 
+<img src="Network-topology.png" alt="Network Topology" width="900">
 This project implements the following networking technologies and protocols:
 
 * **VLANs** – Network segmentation and logical separation based on physical location
